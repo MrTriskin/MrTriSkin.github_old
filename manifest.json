@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "homepage": "http://https://mrtriskin.github.io/umunc",
+  "homepage": "http://https://mrtriskin.github.io/myapp",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
