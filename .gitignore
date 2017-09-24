@@ -1,13 +1,12 @@
-# OS X
+_site/*
+_theme_packages/*
+
+Thumbs.db
 .DS_Store
 
-# Jekyll build
-/_site/
-.jekyll-metadata
-Gemfile.lock
+!.gitkeep
 
-# webstorm
-.idea/
+.rbenv-version
+.rvmrc
 
-# others
-*.swp
+*.lock
